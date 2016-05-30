@@ -1,0 +1,16 @@
+#ifndef DEFINE
+#define DEFINE
+
+#define MAX_PERIOD_of_CAR_EXISTENCE 5000
+#define MAX_PLAN_LENGTH 500
+#define MAX_NODE_NUM 20000
+#define MAX_ARC_NUM 30000
+#define MAX_CONNECTED_ARC_NUM 10
+#define MAX_CAR_NUM 20000
+#define MAX_SIM_STEP 10000
+#define PI 3.14159265358979
+#define COINCIDENCE  0
+
+#endif // DEFINE
+
+
